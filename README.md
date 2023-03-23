@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klear</h1>
 <h3 align="center">A FullStack Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **klearmadera17@gmail.com**
 
